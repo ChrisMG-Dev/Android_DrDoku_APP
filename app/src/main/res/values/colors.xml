@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="puzzle_hilite">#ffffffff</color>
+    <color name="puzzle_light">#64c6d4ef</color>
+    <color name="puzzle_dark">#6456648f</color>
+    <color name="puzzle_selected">#ffffffc2</color>
+    <color name="static_cell">#ffb22222</color>
+    <color name="dynamic_cell">#ff228B22</color>
+	<color name="panel_cell">#ff008080</color>
+	<color name="black">#ff000000</color>
+	<color name="darkLines">#ff191919</color>
+	<color name="white">#ffffffff</color>
+	<color name="red">#ffff8585</color>
+</resources>

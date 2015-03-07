@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+  <CheckBoxPreference
+   android:key="musica" 
+   android:title="Habilitar sonido" 
+   android:summary="Puede activar o desactivar el sonido"/>
+  <ListPreference 
+   android:key="dificultad" 
+   android:title="Dificultad" 
+   android:summary="Escoja una dificultad" 
+   android:entries="@array/dificultad"
+   android:entryValues="@array/dificultadValores"
+   android:defaultValue="Normal"/> 
+</PreferenceScreen>

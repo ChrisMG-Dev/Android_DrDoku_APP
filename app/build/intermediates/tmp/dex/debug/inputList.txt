@@ -1,0 +1,5 @@
+C:\Users\Chris\AndroidstudioProjects\DrDoku\app\build\intermediates\classes\debug
+C:\Users\Chris\AndroidstudioProjects\DrDoku\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e49ee649cd3f895cbaa6921bc711cdca06ec99ac.jar
+C:\Users\Chris\AndroidstudioProjects\DrDoku\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1e6926bf283dd9c3b52cb7d3bd97988fa0e419d3.jar
+C:\Users\Chris\AndroidstudioProjects\DrDoku\app\build\intermediates\pre-dexed\debug\classes-5f9fea47ba3c15662b3884b8b1fb552d53e0ae4c.jar
+C:\Users\Chris\AndroidstudioProjects\DrDoku\app\build\intermediates\pre-dexed\debug\classes-5ea3f30562e75519eef89e85b69cf3e3fe567ec9.jar
